@@ -1,16 +1,26 @@
-### Hi there 👋
+Olá, seja bem vindo ao meu perfil. Meu nome é Samuel Victor e meu apelido é Samuka
 
-<!--
-**Samuel-045/Samuel-045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linguagens que já tenho conhecimento
 
-Here are some ideas to get you started:
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
+Linguagen que estou aprendendo no momento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+IDE´s que já usei
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+          
