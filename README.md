@@ -1,5 +1,17 @@
 Olá, seja bem vindo ao meu perfil. Meu nome é Samuel Victor, e meu apelido é Samuka.
 
+🏠 Resido em São Paulo, SP.
+
+🎓 Sou técnico em informática.
+
+📺 Gosto de assistir futebol, basquete e assitir filmes.
+
+📖 Gosto de ler no tempo livre.
+
+🎒 Estou cursando ADS (análise e desenvolvimento de sistemas) na faculdade SENAC.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-045&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-045&layout=compact&theme=tokyonight)](https://github.com/Samuel-045/github-readme-stats)
 ##
 
 Linguagens que tenho conhecimento
@@ -29,7 +41,7 @@ Tecnologia que uso
 </div>
 
 ##  
- 
+
 Formas de contato
 <div> 
 <a href="https://www.linkedin.com/in/samuel-victor-7a263b210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
