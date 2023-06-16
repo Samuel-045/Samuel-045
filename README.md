@@ -10,8 +10,10 @@ Olá, seja bem vindo ao meu perfil. Meu nome é Samuel Victor, e meu apelido é 
 
 🎒 Estou cursando ADS (análise e desenvolvimento de sistemas) na faculdade SENAC.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-045&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-045&layout=compact&theme=transparent)](https://github.com/Samuel-045/github-readme-stats)
+<div>
+            <img height="180em" src="https://github-readme-stats-ss.vercel.app/api?username=Samuel-045&show_icons=true&theme=transparent"/>
+            <img height="180em" src="https://github-readme-stats-ss.vercel.app/api/top-langs/?username=Samuel-045&layout=compact&theme=transparent"/>
+</div>
 
 ##
 
