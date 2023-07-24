@@ -26,6 +26,7 @@ Linguagens que tenho conhecimento
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
             <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
             <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/DELPHI-black?style=for-the-badge&logo=delphi&logoColor=rgb(255%2C223%2C0)"/>
 </div>
           
 Linguagem que estou aprendendo no momento
