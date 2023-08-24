@@ -10,6 +10,10 @@ Olá, seja bem vindo ao meu perfil. Meu nome é Samuel Victor, e meu apelido é 
 
 🎒 Estou cursando ADS (análise e desenvolvimento de sistemas) na faculdade SENAC.
 
+📝 Sobre mim:\
+Sou apaixonado pela ideia de ser melhor a cada dia e adquirir sempre mais conhecimento, seja na parte acadêmica, ou na parte pessoal.
+Sempre busco ajudar as pessoas ao meu redor, esperando dessa forma contribuir para o desenvolvimentos de todos meus companheiros.
+
 <div>
             <img height="180em" src="https://github-readme-stats-ss.vercel.app/api?username=Samuel-045&show_icons=true&theme=transparent"/>
             <img height="180em" src="https://github-readme-stats-ss.vercel.app/api/top-langs/?username=Samuel-045&layout=compact&theme=transparent"/>
