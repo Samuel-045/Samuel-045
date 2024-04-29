@@ -32,13 +32,9 @@ Linguagens que tenho conhecimento
             <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
             <img src="https://img.shields.io/badge/DELPHI-black?style=for-the-badge&logo=delphi&logoColor=rgb(255%2C223%2C0)"/>
             <img src="https://img.shields.io/badge/Swift-purple?style=for-the-badge&logo=swift&logoColor=black"/>
-</div>
-          
-Linguagem que estou aprendendo no momento
-<div>
             <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
-            
+                      
 IDE´s que uso ou já usei
 <div>
             <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
