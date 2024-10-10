@@ -33,6 +33,7 @@ Linguagens que tenho conhecimento
             <img src="https://img.shields.io/badge/DELPHI-black?style=for-the-badge&logo=delphi&logoColor=rgb(255%2C223%2C0)"/>
             <img src="https://img.shields.io/badge/Swift-purple?style=for-the-badge&logo=swift&logoColor=black"/>
             <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+            <img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=sass"/>
 </div>
                       
 IDE´s que uso ou já usei
