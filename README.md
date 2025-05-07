@@ -14,9 +14,10 @@ Olá, seja bem vindo ao meu perfil. Meu nome é Samuel Victor, e meu apelido é 
 Sou apaixonado pela ideia de ser melhor a cada dia e adquirir sempre mais conhecimento, seja na parte acadêmica, ou na parte pessoal.
 Sempre busco ajudar as pessoas ao meu redor, esperando dessa forma contribuir para o desenvolvimentos de todos meus companheiros.
 
-<div>
+<div align="center">
             <img height="180em" src="https://github-readme-stats-ss.vercel.app/api?username=Samuel-045&show_icons=true&theme=transparent"/>
             <img height="180em" src="https://github-readme-stats-ss.vercel.app/api/top-langs/?username=Samuel-045&layout=compact&theme=transparent"/>
+            <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel-045&theme=transparent" alt="samuel-045" /></p>
 </div>
 
 ##
